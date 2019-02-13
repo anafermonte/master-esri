@@ -2,6 +2,7 @@
 
 * Raúl Jiménez Ortega - [Github](http://www.github.com/hhkaos) | [Linkedin](http://es.linkedin.com/in/jimenezortegaraul) | [Curriculum](https://hhkaos.github.io)
 * Pablo Fernández Rodríguez - [Github](https://github.com/pablo-ferro)
+* Ana Fernández Monterrubio - 
 
 # Ejemplos de código
 
