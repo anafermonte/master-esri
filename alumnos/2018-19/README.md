@@ -3,7 +3,19 @@
 * Raúl Jiménez Ortega - [Github](http://www.github.com/hhkaos) | [Linkedin](http://es.linkedin.com/in/jimenezortegaraul) | [Curriculum](https://hhkaos.github.io)
 * Pablo Fernández Rodríguez - [Github](https://github.com/pablo-ferro)
 * Mar Roca - [Github](https://github.com/marroca13)
-* Ana Fernandez Monterrubio
+* Ana Fernández Monterrubio - [Github](https://github.com/anafermonte) | [Linkedin](https://www.linkedin.com/in/ana-f-79778647/)
+* Samuel Gato Martin - [Github](http://www.github.com/tiedra)
+* Tania Trigo - [Github](https://github.com/taniatrigo)
+* Óscar Sesmilo Bermejo - [Github](https://github.com/oscarsesmilo)
+* Carolina - [Github](https://github.com/MCBian10)
+* Myriam Dominguez - [Github](https://github.com/myriamDominguez)
+* Sergi González Ribas - [Github](http://github.com/GonzalezSergi)
+* Roi Martínez Valladares - [Github](https://github.com/roimv) | [Linkedin](https://www.linkedin.com/in/roi-mart%C3%ADnez-valladares-35a49277/)
+* Marta Bescansa - [Github](https://github.com/martabescansa7)
+* Isabel Sierra Merino - [Github](http://github.com/siemeris) | [Linkedin](https://www.linkedin.com/in/isabelsierramerino/)
+* Raquel - [Github](https://github.com/RMAP2)
+* Marina Valentín Ruiz - [Github](https://github.com/Oretana)
+* Ricardo Andrés Puentes - [Github](http://www.github.com/sinerf)
 
 # Ejemplos de código
 
