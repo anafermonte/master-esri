@@ -3,7 +3,7 @@
 * Raúl Jiménez Ortega - [Github](http://www.github.com/hhkaos) | [Linkedin](http://es.linkedin.com/in/jimenezortegaraul) | [Curriculum](https://hhkaos.github.io)
 * Pablo Fernández Rodríguez - [Github](https://github.com/pablo-ferro)
 * Mar Roca - [Github](https://github.com/marroca13)
-* Ana Fernández Monterrubio - [Github](https://github.com/anafermonte) | [Linkedin](https://www.linkedin.com/in/ana-f-79778647/)
+* Ana Fernández Monterrubio - [Github](https://github.com/anafermonte) | 
 * Samuel Gato Martin - [Github](http://www.github.com/tiedra)
 * Tania Trigo - [Github](https://github.com/taniatrigo)
 * Óscar Sesmilo Bermejo - [Github](https://github.com/oscarsesmilo)
